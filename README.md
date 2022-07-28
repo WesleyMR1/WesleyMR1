@@ -1,5 +1,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyMR1&layout=compact)](https://github.com/WesleyMR1/github-readme-stats)
 
+<div style="display = inline_block"><br/>
+  <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</div>
+
+
+
 <!--
 **WesleyMR1/WesleyMR1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
